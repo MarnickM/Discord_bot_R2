@@ -1,6 +1,6 @@
 # Astromech Bot
 
-# Bot Commands User Guide
+# 1. Bot Commands Regular User Guide
 
 This repository contains a bot designed to help users manage event registrations, activities, and participation details. Below is a comprehensive guide to all the available commands and how to use them.
 
@@ -158,19 +158,6 @@ Type `/delete_registration` and provide the event name.
 
 ---
 
-## Contributing
-If you'd like to contribute to this project, please fork the repository and submit a pull request. For major changes, open an issue first to discuss the proposed changes.
+# 2. Bot Commands Admin Guide
 
----
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-For questions or support, please contact [Your Name] at [your.email@example.com].
-
----
-
-Thank you for using the Event Management Bot! 🚀
