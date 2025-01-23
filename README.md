@@ -3,6 +3,10 @@
 This repository contains a bot designed to help users manage event registrations, activities, and participation details. Below is a comprehensive guide to all the available commands and how to use them.
 There are 2 guides, one for regular users and one for admin users.
 
+## Technologies used:
+- **Python**
+- **MongoDB**
+
 # 1. Bot Commands Regular User Guide
 
 ---
